@@ -31,3 +31,12 @@ https://docs.google.com/spreadsheets/d/1F4iZMNImFaeIragHK2D8mz1fAC86gsYyvL_k1LlW
 [Data Science Resources By Lesson Topic](https://docs.google.com/spreadsheets/d/1F4iZMNImFaeIragHK2D8mz1fAC86gsYyvL_k1LlWHFs/edit#gid=1514988871)
 [TEMPLATES - PT TIME](https://drive.google.com/folderview?id=0B9d0_QjONedid25rRzkwYWx6Rk0&usp=gmail)
 [New Instructor FAQs](https://docs.google.com/document/d/1b1gO7FHgaZwf-4k3FIimy-y98NemBSoXwOKhx3loqls/edit)
+
+
+
+## TODOs
+
+- install anaconda, ipython notebook, review pandas
+- 'exit tickets', ga.co/dat1ticket I think
+- 'course tracker' google doc
+- field trips, guest lecturers
