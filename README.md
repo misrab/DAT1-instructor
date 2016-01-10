@@ -1,7 +1,19 @@
 # GA DAT1 course notes
 
 
+
+
+## Organisation
+
+- [Course tracker](https://docs.google.com/spreadsheets/d/1aARIptmnsKClALWyWYtH_3JAhjNoyY4c1PuY082gm_s/edit?ts=568e3d56#gid=1784326121)
+- [Student survey responses](https://docs.google.com/spreadsheets/d/1xd4uxXs2GoPRJamdpBhPIGV7nO-HRrKaMJ9STffMTyQ/edit?ts=568e4cae#gid=48572151)
+
+
+
 ## Course materials
+
+- [GA Singapore](https://generalassemb.ly/singapore)
+- [GA Data Science](https://generalassemb.ly/education/data-science)
 
 - [Basic](https://github.com/generalassembly-studio/DS_Curriculum)
 - [DAT15, SF](https://github.com/sinanuozdemir/SF_DAT_15)
