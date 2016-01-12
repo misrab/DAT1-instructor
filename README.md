@@ -5,6 +5,7 @@
 
 ## Organisation
 
+- [Course structure](https://docs.google.com/spreadsheets/d/1Jx7_N1O7Hzh0QcUrK8FszVjOa8K0n2TB3j1Pgmpy078/edit?usp=sharing_eid&ts=56921d9a)
 - [Course tracker](https://docs.google.com/spreadsheets/d/1aARIptmnsKClALWyWYtH_3JAhjNoyY4c1PuY082gm_s/edit?ts=568e3d56#gid=1784326121)
 - [Student survey responses](https://docs.google.com/spreadsheets/d/1xd4uxXs2GoPRJamdpBhPIGV7nO-HRrKaMJ9STffMTyQ/edit?ts=568e4cae#gid=48572151)
 
