@@ -1,7 +1,7 @@
 # GA DAT1 course notes
 
 
-
+[Students go here](https://github.com/misrab/SG_DAT1)
 
 ## Organisation
 
