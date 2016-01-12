@@ -14,16 +14,10 @@
 
 - [GA Singapore](https://generalassemb.ly/singapore)
 - [GA Data Science](https://generalassemb.ly/education/data-science)
-
 - [Basic](https://github.com/generalassembly-studio/DS_Curriculum)
 - [DAT15, SF](https://github.com/sinanuozdemir/SF_DAT_15)
 - [DAT7, DC](https://github.com/justmarkham/DAT7)
 - [DAT14, NY](https://github.com/gads14-nyc/fall_2014_lessons)
-
-- Other resources:
-
-http://www.dataschool.io/teaching-data-science/
-https://docs.google.com/spreadsheets/d/1F4iZMNImFaeIragHK2D8mz1fAC86gsYyvL_k1LlWHFs/edit
 
 
 ## Student Prework
@@ -35,7 +29,6 @@ https://docs.google.com/spreadsheets/d/1F4iZMNImFaeIragHK2D8mz1fAC86gsYyvL_k1LlW
 ## Logistics
 
 [GA Fonts + Templates](https://drive.google.com/open?id=0B9d0_QjONedid25rRzkwYWx6Rk0)
-
 [FAQ](https://docs.google.com/document/d/1b1gO7FHgaZwf-4k3FIimy-y98NemBSoXwOKhx3loqls/edit)
 
 ## Other Resources
